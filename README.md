@@ -1,4 +1,4 @@
-# fablab-wiki
+# fablab-docs
 ## Documentazione Tecnico/Pratica per l'utilizzo del FabLab @lab121 ##
 
 ### Perché? ###
