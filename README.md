@@ -7,7 +7,9 @@ Perché chi si affaccia al fablab può così leggere la documentazione lasciata 
 
 ### Cosa è? ###
 
-E' un wiki condiviso ospitato da GitHub, pubblico ed editabile da tutti. 
+E' un wiki condiviso ospitato da GitHub, pubblico ed editabile da tutti ed accessibile da questo link:
+
+- https://github.com/lab121/fablab-docs/wiki
 
 ### Come si usa? ###
 
